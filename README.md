@@ -74,11 +74,20 @@ Foco em Análise de Dados e Business Intelligence, criação de dashboards inter
 />
 <img 
     align="left" 
-    alt="Ruby on Rails" 
-    title="Ruby on Rails"
+    alt="Ruby" 
+    title="Ruby"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://jobs.rubyonrails.org/files/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjg0NCwicHVyIjoiYmxvYl9pZCJ9fQ==--4b7dab03d287c383c78913d288470d1f32a1e47d/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZmlsbCI6WzgwLDgwXX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--454eea9ed73f49616339a40ce9f8c0f6dbee799f/rubyonrails.png" 
+    src="https://images.icon-icons.com/2415/PNG/512/ruby_original_wordmark_logo_icon_146364.png" 
+/>
+
+<img 
+    align="left" 
+    alt="Rails" 
+    title="Rails"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://pbs.twimg.com/profile_images/691206086955790336/CDMbA57p_400x400.png" 
 />
 
 <img 
