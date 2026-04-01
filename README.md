@@ -144,8 +144,12 @@ Foco em Análise de Dados e Business Intelligence, criação de dashboards inter
 
 
 ## 🚀 Projetos em destaque
-- 📌 Em breve...
 
+🚦 Projeto Trânsito — Dashboard de Acidentes em Rodovias Federais</br>
+https://github.com/marcosbsa/dashboard_transito
+
+🎾 Projeto Vertex — Dashboard Comercial de Tênis</br>
+https://github.com/marcosbsa/dashboard_vertex
 
 
 ### 📊 Estatísticas
