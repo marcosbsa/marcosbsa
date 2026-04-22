@@ -151,6 +151,9 @@ https://github.com/marcosbsa/dashboard_transito
 🎾 Projeto Vertex — Dashboard Comercial de Tênis</br>
 https://github.com/marcosbsa/dashboard_vertex
 
+🛍️ Projeto Loja — Dashboard de Análise de vendas, clientes e desempenho comercial
+https://github.com/marcosbsa/dashboard_loja
+
 
 ### 📊 Estatísticas
 
