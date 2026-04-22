@@ -119,7 +119,7 @@ Foco em Análise de Dados e Business Intelligence, criação de dashboards inter
     width="110"
     height="30"
     style="display: inline-block; margin-right: 8px;"
-  >
+  />
 </a>
 <a href="mailto:marcos.bsa@gmail.com" target="_blank">
   <img 
@@ -128,7 +128,7 @@ Foco em Análise de Dados e Business Intelligence, criação de dashboards inter
     width="110"
     height="30"
     style="display: inline-block; margin-right: 8px;"
-  >
+  />
 </a>
 <a href="https://app.xperiun.com/in/1758752859589x858000584287977500" target="_blank">
   <img 
@@ -137,7 +137,7 @@ Foco em Análise de Dados e Business Intelligence, criação de dashboards inter
     width="110"
     height="30"
     style="display: inline-block;"
-  >
+  />
 </a>
 <br/>
 <br/>
