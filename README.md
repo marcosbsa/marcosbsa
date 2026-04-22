@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Marcos Alencar Santos
 
-**`Análise de Dados e Business Intelligence | Power BI | Dashboards Interativos`**
+**`Análise de Dados e Business Intelligence | Power BI | Python | Dashboards Interativos`**
 
 Foco em Análise de Dados e Business Intelligence, criação de dashboards interativos no Power BI, coleta e integração de dados de múltiplas fontes e acompanhamento de KPIs de vendas.
 
