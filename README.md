@@ -107,39 +107,45 @@ Foco em Análise de Dados e Business Intelligence, criação de dashboards inter
     style="padding-right: 10px;" 
     src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" 
 />
+
+<!-- Codex / OpenAI -->
+<img 
+    align="left" 
+    alt="Codex"
+    title="Codex / OpenAI" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" 
+/>
+
+<!-- Claude / Anthropic -->
+<img 
+    align="left" 
+    alt="Claude"
+    title="Claude AI" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude-color.png" 
+/>
+
 <br/>
 <br/>
 
- ## 🌐 Conecte-se comigo
-<!-- Badges lado a lado, mesmo tamanho -->
-<a href="https://www.linkedin.com/in/marcos-alencar-santos-b2402633" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
-    alt="LinkedIn"
-    width="110"
-    height="30"
-    style="display: inline-block; margin-right: 8px;"
-  />
-</a>
-<a href="mailto:marcos.bsa@gmail.com" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" 
-    alt="Gmail"
-    width="110"
-    height="30"
-    style="display: inline-block; margin-right: 8px;"
-  />
-</a>
-<a href="https://app.xperiun.com/in/1758752859589x858000584287977500" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/-Xperiun-%237B3FA0?style=for-the-badge&logo=aperture&logoColor=white" 
-    alt="Xperiun"
-    width="110"
-    height="30"
-    style="display: inline-block;"
-  />
-</a>
-<br/>
+## 🌐 Conecte-se comigo
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/marcos-alencar-santos-b2402633" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="mailto:marcos.bsa@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+
+  <a href="https://app.xperiun.com/in/1758752859589x858000584287977500" target="_blank">
+    <img src="https://img.shields.io/badge/-Xperiun-%237B3FA0?style=for-the-badge&logo=aperture&logoColor=white" alt="Xperiun"/>
+  </a>
+</p>
 <br/>
 
 
@@ -151,7 +157,7 @@ https://github.com/marcosbsa/dashboard_transito
 🎾 Projeto Vertex — Dashboard Comercial de Tênis</br>
 https://github.com/marcosbsa/dashboard_vertex
 
-🛍️ Projeto Loja — Dashboard de Análise de vendas, clientes e desempenho comercial
+🛍️ Projeto Loja — Dashboard de Análise de vendas, clientes e desempenho comercial</br>
 https://github.com/marcosbsa/dashboard_loja
 
 
