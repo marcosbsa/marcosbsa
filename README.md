@@ -160,6 +160,9 @@ https://github.com/marcosbsa/dashboard_vertex
 🛍️ Projeto Loja — Dashboard de Análise de vendas, clientes e desempenho comercial</br>
 https://github.com/marcosbsa/dashboard_loja
 
+🏥 Projeto Hospitalar - Dashboard Internações Hospitalares</br>
+https://github.com/marcosbsa/dashboard_hospital
+
 
 ### 📊 Estatísticas
 
