@@ -36,8 +36,6 @@ Foco em Análise de Dados e Business Intelligence, criação de dashboards inter
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-
-
 <img 
     align="left" 
     alt="Bootstrap"
@@ -46,7 +44,6 @@ Foco em Análise de Dados e Business Intelligence, criação de dashboards inter
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
-
 <img 
     align="left" 
     alt="SASS" 
@@ -55,7 +52,6 @@ Foco em Análise de Dados e Business Intelligence, criação de dashboards inter
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Git" 
@@ -80,7 +76,6 @@ Foco em Análise de Dados e Business Intelligence, criação de dashboards inter
     style="padding-right: 10px;" 
     src="https://images.icon-icons.com/2415/PNG/512/ruby_original_wordmark_logo_icon_146364.png" 
 />
-
 <img 
     align="left" 
     alt="Rails" 
@@ -89,7 +84,6 @@ Foco em Análise de Dados e Business Intelligence, criação de dashboards inter
     style="padding-right: 10px;" 
     src="https://pbs.twimg.com/profile_images/691206086955790336/CDMbA57p_400x400.png" 
 />
-
 <img 
     align="left" 
     alt="PowerBI" 
@@ -98,7 +92,6 @@ Foco em Análise de Dados e Business Intelligence, criação de dashboards inter
     style="padding-right: 10px;" 
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/960px-New_Power_BI_Logo.svg.png" 
 />
-
 <img 
     align="left" 
     alt="SQL" 
@@ -106,6 +99,14 @@ Foco em Análise de Dados e Business Intelligence, criação de dashboards inter
     width="30px" 
     style="padding-right: 10px;" 
     src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" 
+/>
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/office-original.svg" 
 />
 
 <!-- Codex / OpenAI -->
