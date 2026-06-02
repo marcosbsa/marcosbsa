@@ -68,6 +68,11 @@ Foco em Análise de Dados e Business Intelligence, criação de dashboards inter
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+
+<img align="left" alt="Pandas" title="Pandas" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+<img align="left" alt="Jupyter" title="Jupyter" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
+
+
 <img 
     align="left" 
     alt="Ruby" 
@@ -191,9 +196,6 @@ https://github.com/marcosbsa/dashboard_hospital
   />
 </div>
 </p>
-
-
-
 
 
 
