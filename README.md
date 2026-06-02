@@ -102,11 +102,11 @@ Foco em Análise de Dados e Business Intelligence, criação de dashboards inter
 />
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="Excel"
+    title="Excel" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/office-original.svg" 
+    src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" 
 />
 
 <!-- Codex / OpenAI -->
