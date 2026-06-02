@@ -189,14 +189,6 @@ https://github.com/marcosbsa/dashboard_hospital
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marcosbsa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
 
-  <img 
-    alt="GitHub Streak"
-    style="display: block;"
-    src="https://streak-stats.demolab.com?user=marcosbsa&theme=radical"
-  />
-</div>
 </p>
-
-
 
 
