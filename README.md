@@ -134,6 +134,15 @@ Foco em Análise de Dados e Business Intelligence, criação de dashboards inter
     src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude-color.png" 
 />
 
+<img 
+    align="left" 
+    alt="n8n"
+    title="n8n" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.simpleicons.org/n8n/FFFFFF" 
+/>
+
 <br/>
 <br/>
 
